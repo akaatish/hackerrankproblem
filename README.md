@@ -1,2 +1,3 @@
-# hackerrankproblem
+# HackerRank Problems
+
 The Python Problems I solved on Hackerrank :   https://www.hackerrank.com/akaatish
